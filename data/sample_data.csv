@@ -1,0 +1,11 @@
+url_or_email,type,label
+http://www.bankofamerica.com-login-security-alerts.com,url,1
+https://www.google.com,url,0
+http://update-apple.com/login,url,1
+https://github.com,url,0
+http://paypal-account-verification.com,url,1
+https://www.microsoft.com,url,0
+admin@secure-chasebank-login.com,email,1
+support@openai.com,email,0
+netflix-update@streamsecure.ru,email,1
+team@python.org,email,0
